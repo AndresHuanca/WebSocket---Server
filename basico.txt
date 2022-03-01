@@ -1,0 +1,15 @@
+One - Install package.json "npm init -y"
+Two - create app.json 
+three - create folder models  and server.js
+four - To complete app.js and dotenv config 
+six - nstal "npm i express - cors -dotenv"
+seven - create folder public and file index.html 
+eight - folder js and socket-client.js and import index.html
+nine - Install "npm i socket.io"
+ten - import in server.js socket.io con this "for property of the class  " and index.html too
+eleven - create property this.socket in molder server 
+twelve - create in socket-client "const socket = io();"
+thirteen - display sokets online and ofline front and back
+fourteen - send mesage of fron and listener in back
+fifteen - broadcast from server and listen from client
+16 - retrioalimentacion volver a ver
